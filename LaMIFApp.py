@@ -36,7 +36,13 @@ def formula_as_file( formula, file, negate=False ):
 
 sm = ScreenManager()
 
+class ScreenAcceuil(Screen):
+    def build(self):
+        Layout = BoxLayout(orientation = "vertical")
+        Picture = Image(source = "/Image/Acceuil.jpeg")
 
+
+        self.add_widget(Layout)
 
 class ScreenLatex(Screen):
     def build(self,StrImage,StrTexte,name):
@@ -47,6 +53,7 @@ class ScreenLatex(Screen):
         Layout.build(self.StrImage,self.StrTexte,self.name)
         self.add_widget(Layout)
         sm.add_widget(self)
+
 
 class LayoutLatex(BoxLayout):
     def build(self,StrImage,StrTexte,name):
