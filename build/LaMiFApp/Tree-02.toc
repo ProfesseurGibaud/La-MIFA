@@ -460,6 +460,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\f3\\20bb60e958edae36388c818b707acdc725ce1a',
    'DATA'),
+  ('.git\\objects\\f3\\43a54eda295e63493e7f1cfbd86376a490e86e',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\f3\\43a54eda295e63493e7f1cfbd86376a490e86e',
+   'DATA'),
   ('.git\\objects\\f2\\1339c443f0d68387a63fc030f0e48f9fe01d8b',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\f2\\1339c443f0d68387a63fc030f0e48f9fe01d8b',
@@ -471,6 +475,10 @@
   ('.git\\objects\\ef\\7545d8692515cc45b0e42ec7ce49d7d7b41d4e',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\ef\\7545d8692515cc45b0e42ec7ce49d7d7b41d4e',
+   'DATA'),
+  ('.git\\objects\\ee\\51298d50f0d1006fdec65ff4df210c11096ac6',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\ee\\51298d50f0d1006fdec65ff4df210c11096ac6',
    'DATA'),
   ('.git\\objects\\ec\\0c3463642c643af7149d8af6fdcc0888bc8929',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -528,9 +536,25 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\d8\\e42461063d3da88cb1d6a21c96bd6151084a76',
    'DATA'),
+  ('.git\\objects\\d6\\6de0e5235ad4e68b5813a5aa40c8ad789bc58b',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\d6\\6de0e5235ad4e68b5813a5aa40c8ad789bc58b',
+   'DATA'),
+  ('.git\\objects\\d3\\4e7368f9967f3f073cdc1b5d57505baa515e9e',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\d3\\4e7368f9967f3f073cdc1b5d57505baa515e9e',
+   'DATA'),
   ('.git\\objects\\d2\\fd12f078fd20fcee933123556514291c87219e',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\d2\\fd12f078fd20fcee933123556514291c87219e',
+   'DATA'),
+  ('.git\\objects\\cf\\ec2d0546465d85c0991183bf7c6d21a9ec94e6',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\cf\\ec2d0546465d85c0991183bf7c6d21a9ec94e6',
+   'DATA'),
+  ('.git\\objects\\ce\\b5fdc120d76abe5fda469c2a635915f0c5ee36',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\ce\\b5fdc120d76abe5fda469c2a635915f0c5ee36',
    'DATA'),
   ('.git\\objects\\cd\\77fd3a0bb4b1284b0a83acbb3e36bbd096cc46',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -552,9 +576,21 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\cb\\e615ada4f3df52d1d1ca4a9836028debdfa936',
    'DATA'),
+  ('.git\\objects\\ca\\e8bf60e57e559c39e7c984a3a039235e996157',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\ca\\e8bf60e57e559c39e7c984a3a039235e996157',
+   'DATA'),
+  ('.git\\objects\\c9\\e44191d4d4575a32f4c633846fd26368f365e1',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\c9\\e44191d4d4575a32f4c633846fd26368f365e1',
+   'DATA'),
   ('.git\\objects\\c8\\216ffad9772b1d5065bea5c55fee17947dfa3a',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\c8\\216ffad9772b1d5065bea5c55fee17947dfa3a',
+   'DATA'),
+  ('.git\\objects\\c7\\a17f10b02da0b3cec90fbc45ae96c630fa8b5e',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\c7\\a17f10b02da0b3cec90fbc45ae96c630fa8b5e',
    'DATA'),
   ('.git\\objects\\c5\\5b95f26c7101ebc31a7a47fd34b1f5fa067bb5',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -568,6 +604,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\c1\\b4421b44dd1018a2cd5886ea8317ed80b9923f',
    'DATA'),
+  ('.git\\objects\\b9\\48425f1c8098db1a2e417055ac69a725be676b',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\b9\\48425f1c8098db1a2e417055ac69a725be676b',
+   'DATA'),
   ('.git\\objects\\b8\\61255a9fe9c5c7b4440af83954e71c486c2926',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\b8\\61255a9fe9c5c7b4440af83954e71c486c2926',
@@ -580,6 +620,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\b8\\e8cf4acdc953a51ae6fabb16c3464ce311cc36',
    'DATA'),
+  ('.git\\objects\\b6\\d751e9c4dbf0404b21a8d7ca5e9730282e39f6',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\b6\\d751e9c4dbf0404b21a8d7ca5e9730282e39f6',
+   'DATA'),
   ('.git\\objects\\b5\\b86db444f419ca0b1e1a2acaaaa3d313773cc5',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\b5\\b86db444f419ca0b1e1a2acaaaa3d313773cc5',
@@ -587,6 +631,10 @@
   ('.git\\objects\\b2\\179f4cbca96301354ea5e2f2764495dbe5e243',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\b2\\179f4cbca96301354ea5e2f2764495dbe5e243',
+   'DATA'),
+  ('.git\\objects\\b2\\4ade7acc81720f28960eaf7b7e35212e23ffdf',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\b2\\4ade7acc81720f28960eaf7b7e35212e23ffdf',
    'DATA'),
   ('.git\\objects\\ad\\0d332ee6c1f06c10ecd9e256c747b36ed51f2d',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -620,9 +668,17 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\a3\\f877c5f38194f91b69cd15c061a4d8dec7cff3',
    'DATA'),
+  ('.git\\objects\\a2\\67068a644ce1771cd44a2863195e3d21073cce',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\a2\\67068a644ce1771cd44a2863195e3d21073cce',
+   'DATA'),
   ('.git\\objects\\a1\\42aa9604bea99b980f2d07ca4e2fae58b89da7',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\a1\\42aa9604bea99b980f2d07ca4e2fae58b89da7',
+   'DATA'),
+  ('.git\\objects\\9f\\6e123a3170b6c687e26885cbb3b174afd25e39',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\9f\\6e123a3170b6c687e26885cbb3b174afd25e39',
    'DATA'),
   ('.git\\objects\\9d\\8840c4922bc7a9be046a4fe9bd9a9954b47e64',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -631,6 +687,14 @@
   ('.git\\objects\\9d\\9b40778bcce2f45313d8ae7bdc27df4d48a27c',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\9d\\9b40778bcce2f45313d8ae7bdc27df4d48a27c',
+   'DATA'),
+  ('.git\\objects\\99\\09956bfd60214543307414d22221c18d9d6f68',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\99\\09956bfd60214543307414d22221c18d9d6f68',
+   'DATA'),
+  ('.git\\objects\\99\\3f205e2b2bdaa7bcf62663acc1ed2727491d1f',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\99\\3f205e2b2bdaa7bcf62663acc1ed2727491d1f',
    'DATA'),
   ('.git\\objects\\96\\d6ae327383b20a408dfd20c6ab07a698c44677',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -692,6 +756,18 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\80\\b01d56597ff12d96e896ea32f32156ac0b19ab',
    'DATA'),
+  ('.git\\objects\\7f\\c9c55f6f0b0d6f7a172d7b97160f96a691339b',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\7f\\c9c55f6f0b0d6f7a172d7b97160f96a691339b',
+   'DATA'),
+  ('.git\\objects\\7e\\58513592bfeab466030d7bfe652443e16bdd53',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\7e\\58513592bfeab466030d7bfe652443e16bdd53',
+   'DATA'),
+  ('.git\\objects\\7b\\e068075254bc49e117a6e81bf352a887ca2a81',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\7b\\e068075254bc49e117a6e81bf352a887ca2a81',
+   'DATA'),
   ('.git\\objects\\7a\\07abaef976f17f885ebdfe9c417610b3b213e2',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\7a\\07abaef976f17f885ebdfe9c417610b3b213e2',
@@ -708,9 +784,17 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\77\\2bbe2224dd11df9ea34dc119324e42041a55a3',
    'DATA'),
+  ('.git\\objects\\76\\a710fcb8a28ea70522e8b4c42ecf54d5cae01f',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\76\\a710fcb8a28ea70522e8b4c42ecf54d5cae01f',
+   'DATA'),
   ('.git\\objects\\75\\11b5210b076d418b0032335c3aa718d77e7778',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\75\\11b5210b076d418b0032335c3aa718d77e7778',
+   'DATA'),
+  ('.git\\objects\\75\\30114e3a7d738258b944a5edca787ab6160dad',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\75\\30114e3a7d738258b944a5edca787ab6160dad',
    'DATA'),
   ('.git\\objects\\75\\4e5cbf0a892e6c970c5321d70039c443e4b8a7',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -768,6 +852,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\5d\\fca5495086003aba9622ce49a4817a2f570c46',
    'DATA'),
+  ('.git\\objects\\5c\\28466ff4012434725d415efbc041f2dae9479b',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\5c\\28466ff4012434725d415efbc041f2dae9479b',
+   'DATA'),
   ('.git\\objects\\5b\\1626bf3c50cd1a28ef8cd4f8ec068b5ded40b6',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\5b\\1626bf3c50cd1a28ef8cd4f8ec068b5ded40b6',
@@ -787,6 +875,10 @@
   ('.git\\objects\\56\\ffe6196de222bfc2611ffff50899288913b53d',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\56\\ffe6196de222bfc2611ffff50899288913b53d',
+   'DATA'),
+  ('.git\\objects\\55\\9e1181fa40aa5ff2a89b3e732e4233d4236235',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\55\\9e1181fa40aa5ff2a89b3e732e4233d4236235',
    'DATA'),
   ('.git\\objects\\54\\2c90fe1aa5bf18ddf6d4e4b66b48df0619e270',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -836,6 +928,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\48\\9dc454f6f466a01ca05e2d02e2245f9b290c1b',
    'DATA'),
+  ('.git\\objects\\44\\436456923824b93b0b98ef70e4dea499a3e0c9',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\44\\436456923824b93b0b98ef70e4dea499a3e0c9',
+   'DATA'),
   ('.git\\objects\\42\\6355c045563f4c607446f4f84f3559ddcec596',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\42\\6355c045563f4c607446f4f84f3559ddcec596',
@@ -852,6 +948,10 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\35\\60869e7b01e4123a4998a96b17db2ecbf38f1d',
    'DATA'),
+  ('.git\\objects\\34\\164b6a28258a8933f58a64374aafeb6824e56e',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\34\\164b6a28258a8933f58a64374aafeb6824e56e',
+   'DATA'),
   ('.git\\objects\\33\\3f367a067c92a519ecb65dcfd5e2986ee441a7',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\33\\3f367a067c92a519ecb65dcfd5e2986ee441a7',
@@ -859,6 +959,10 @@
   ('.git\\objects\\32\\1e1ee30b440604a797e826b69222260b3377ea',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\32\\1e1ee30b440604a797e826b69222260b3377ea',
+   'DATA'),
+  ('.git\\objects\\2f\\8a4ee617979fed34efd9c807f9d287f8ebd79c',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\2f\\8a4ee617979fed34efd9c807f9d287f8ebd79c',
    'DATA'),
   ('.git\\objects\\24\\f569bb02b26b1c869fa089af2b250406b6190b',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -872,9 +976,17 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\22\\29a74f6cecfa7c7036de5f10da1ed8d254ccd1',
    'DATA'),
+  ('.git\\objects\\22\\f029284b150e0b27b935b5732d92cd71bb7eb5',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\22\\f029284b150e0b27b935b5732d92cd71bb7eb5',
+   'DATA'),
   ('.git\\objects\\21\\cd04aa5dc6cd5cbdd2cd96fd03d4d813b28879',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\21\\cd04aa5dc6cd5cbdd2cd96fd03d4d813b28879',
+   'DATA'),
+  ('.git\\objects\\1b\\faea4dc71e9e5b6a8a6baaf0a1c4437ea5c62d',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\1b\\faea4dc71e9e5b6a8a6baaf0a1c4437ea5c62d',
    'DATA'),
   ('.git\\objects\\17\\7ee1432a8ed4c0112b469e9fd51d2edc19285b',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -883,6 +995,10 @@
   ('.git\\objects\\16\\59303d35c2ff95f4d14445d38b066cf93bf866',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\16\\59303d35c2ff95f4d14445d38b066cf93bf866',
+   'DATA'),
+  ('.git\\objects\\15\\03b8fd943742e7908bc73312de7d103fe1a654',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\15\\03b8fd943742e7908bc73312de7d103fe1a654',
    'DATA'),
   ('.git\\objects\\14\\86be09cb25c51747e10ec26f41dd7f731c6744',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
@@ -908,6 +1024,14 @@
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\0c\\d60ae470231dd4d5f3d820e651e54a7b02a688',
    'DATA'),
+  ('.git\\objects\\0b\\a10753c8ddb30b3cc6713c9dec0567f66aa539',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\0b\\a10753c8ddb30b3cc6713c9dec0567f66aa539',
+   'DATA'),
+  ('.git\\objects\\09\\74f6f9b64b12dd427eaea5930a38853c3eed32',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\09\\74f6f9b64b12dd427eaea5930a38853c3eed32',
+   'DATA'),
   ('.git\\objects\\09\\8b69c7a30063f9ab2a4d8b7bbffa85ca1d2df0',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\09\\8b69c7a30063f9ab2a4d8b7bbffa85ca1d2df0',
@@ -919,6 +1043,14 @@
   ('.git\\objects\\02\\30439f9689b6e9540519bac0cf68bf20517b4c',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
    'Git\\La-MIFA\\.git\\objects\\02\\30439f9689b6e9540519bac0cf68bf20517b4c',
+   'DATA'),
+  ('.git\\objects\\02\\58b18c8f71b12746dbed73f2792bbe03c553e0',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\02\\58b18c8f71b12746dbed73f2792bbe03c553e0',
+   'DATA'),
+  ('.git\\objects\\01\\5a8afc1ef5f2442ab9bad9ec6cfe720d16971d',
+   'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '
+   'Git\\La-MIFA\\.git\\objects\\01\\5a8afc1ef5f2442ab9bad9ec6cfe720d16971d',
    'DATA'),
   ('.git\\objects\\01\\e3eceb561be995eb3b0967c527337250d773a4',
    'C:\\Users\\Sylgi\\Google Drive\\Python\\La Mifa '

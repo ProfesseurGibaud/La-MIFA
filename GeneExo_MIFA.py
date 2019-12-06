@@ -172,9 +172,9 @@ class Exercice:
                 self.expr = A - B
         if self.type == "Fraction":
             u = rd.randint(0,1)
-            if u == 1:
+            if u == 0:
                 [self.enonce,self.correction] = StrExoFraction(self.classe)
-            if u == 2:
+            if u == 1:
                 [self.enonce,self.correction] = StrExoFractionMoyen(self.classe)
         if self.type == "Tableaux de Variation":
             u = rd.randint(0,5)
