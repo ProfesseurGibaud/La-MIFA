@@ -70,7 +70,18 @@ class Exercice:
         self.StrExpr = ""
         self.consigne = ""
         self.consignecorrection = ""
-
+    
+    def VersLatex(self):
+        if self.type == "Tableaux de Variation" or self.type == "Fraction" or self.type == "Equation de Droite du Plan":
+            if self.type == "Tableaux de Variation":
+                self.enonce = "f(x) = " + sp.latex(self.expr)
+        elif self.type == "Equation":
+            self.enonce = sp.latex(self.expr) + "=0"
+            self.correction = sp.latex(self.corr)
+        else:
+            self.enonce = sp.latex(self.expr)
+            self.correction = sp.latex(self.corr)
+    
     def FaireEnonce(self):
         if self.type == "D\\'eveloppement":
             if self.niveau == "Facile":
@@ -193,6 +204,8 @@ class Exercice:
                 A = AxPbDur()
                 self.CheckDomaine = A
                 self.expr = sp.log(A) + ((AxPbDur())**3)
+        self.FaireCorrection()
+        self.VersLatex()
 
     def FaireCorrection(self):
         if self.type == "D\\'eveloppement":
@@ -236,6 +249,8 @@ class Exercice:
         if self.type == "Tableaux de Variation" or self.type == "Fraction" or self.type == "Equation de Droite du Plan":
             if self.type == "Tableaux de Variation":
                 self.enonce = "f(x) = " + sp.latex(self.expr)
+                # Pour Faciliter la fonction qui affiche les corrections : Affiche la dérivée plutôt que le signe de la dérivée.
+                self.correction = sp.latex(self.der)
         elif self.type == "Equation":
             self.enonce = sp.latex(self.expr) + "=0"
             self.correction = sp.latex(self.corr)

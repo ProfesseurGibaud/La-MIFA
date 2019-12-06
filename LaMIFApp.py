@@ -70,8 +70,9 @@ class ScreenMeme(Screen):
         self.add_widget(Layout)
         sm.add_widget(self)
     def PreparerLatex(self,instance):
+        self.BoutonLatex.text = "En cours"
         if self.pret == 1:
-            sm.current = "Enoncé1"
+            sm.current = "Enoncé0"
         if self.pret == 0:
             self.BoutonLatex.text = "En Cours"
             FaireExercice()
